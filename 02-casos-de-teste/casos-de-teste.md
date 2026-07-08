@@ -352,7 +352,7 @@ Aprovado com ressalva. O painel reservas na seção admin mostra as reservas em 
 
 ### Evidência
 
-`05-evidencias/casos-de-teste/CT-007.png`
+`05-evidencias/casos-de-teste/CT-009.png`
 `05-evidencias/bugs/BUG-001.png`
 
 ---
@@ -385,7 +385,7 @@ Aprovado. Após confirmação manual da compra do ingresso o sistema altera seu 
 
 ### Evidência
 
-`05-evidencias/casos-de-teste/CT-009.png`
+`05-evidencias/casos-de-teste/CT-010.png`
 
 ---
 
@@ -416,7 +416,7 @@ Reprovado. O ticket é gerado em forma de PDF que o usuário receberá. Nele con
 
 ### Evidência
 
-`05-evidencias/casos-de-teste/CT-010.png`
+`05-evidencias/casos-de-teste/CT-011.png`
 `05-evidencias/bugs/BUG-002.png`
 
 ---
@@ -448,7 +448,7 @@ Aprovado. É possível validar o ticket através de seu código gerado um result
 
 ### Evidência
 
-`05-evidencias/casos-de-teste/CT-011.png`
+`05-evidencias/casos-de-teste/CT-012.png`
 
 ---
 
@@ -478,7 +478,7 @@ Aprovado. Quando é tentado validar novamente um ticket já validado é informad
 
 ### Evidência
 
-`05-evidencias/casos-de-teste/CT-012.png`
+`05-evidencias/casos-de-teste/CT-013.png`
 
 ---
 
@@ -511,7 +511,7 @@ Aprovado. O fluxo segue corretamente através das telas conforme versão desktop
 
 ### Evidência
 
-`05-evidencias/casos-de-teste/CT-013.png`
+`05-evidencias/casos-de-teste/CT-014.png`
 
 ---
 

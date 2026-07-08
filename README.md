@@ -179,9 +179,6 @@ qa-manual-ingressos-danca-tradicao/
 | Casos de Teste         | Documentar os cenários e passos de validação           | Feito        |
 | Bug Reports            | Registrar falhas encontradas durante os testes         | Feito        |
 | Smoke Test             | Validar rapidamente se o sistema está funcional        | Feito        |
-| Checklist de Regressão | Garantir que funcionalidades antigas não quebrem       | Feito        |
-| Checklist Mobile       | Validar comportamento em telas menores                 | Feito        |
-| Checklist Admin        | Validar fluxos administrativos                         | Feito        |
 | Evidências             | Armazenar prints e registros dos testes                | Feito        |
 | Relatório Final        | Consolidar resultados do ciclo de QA                   | Feito        |
 | Post LinkedIn          | Apresentar o case de QA Manual publicamente            | Feito        |

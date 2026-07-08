@@ -46,10 +46,10 @@ O smoke test tem foco no fluxo principal do sistema: acesso ao site, compra de i
 | SMK-004 | Formulário   | Preencher dados fictícios válidos         | O sistema deve permitir avançar no fluxo                          | Aprovado   |05-evidencias/smoke-test/SMK-004.png|
 | SMK-005 | Reserva      | Criar uma reserva                         | A reserva deve ser criada com status pendente de pagamento        | Aprovado   |05-evidencias/smoke-test/SMK-005.png|
 | SMK-006 | Pagamento    | Visualizar tela de pagamento Pix/WhatsApp | A tela deve exibir instruções de pagamento e envio de comprovante | Aprovado   |05-evidencias/smoke-test/SMK-006.png|
-| SMK-007 | Admin        | Acessar área administrativa               | O painel admin deve carregar após autenticação                    | Aprovado   |05-evidencias/smoke-test/SMK-005.png|
-| SMK-008 | Admin        | Localizar e confirmar uma reserva         | O sistema deve alterar o pedido para pago e gerar ticket          | Aprovado   |05-evidencias/smoke-test/SMK-007.png|
-| SMK-009 | Ticket       | Acessar o ticket confirmado               | O ticket deve exibir informações básicas e QR Code                | Aprovado   |05-evidencias/smoke-test/SMK-008.png|
-| SMK-010 | Mobile       | Validar fluxo principal em tela mobile    | O fluxo deve permanecer legível e utilizável                      | Aprovado   |05-evidencias/smoke-test/SMK-009.png|
+| SMK-007 | Admin        | Acessar área administrativa               | O painel admin deve carregar após autenticação                    | Aprovado   |05-evidencias/smoke-test/SMK-007.png|
+| SMK-008 | Admin        | Localizar e confirmar uma reserva         | O sistema deve alterar o pedido para pago e gerar ticket          | Aprovado   |05-evidencias/smoke-test/SMK-008.png|
+| SMK-009 | Ticket       | Acessar o ticket confirmado               | O ticket deve exibir informações básicas e QR Code                | Aprovado   |05-evidencias/smoke-test/SMK-009.png|
+| SMK-010 | Mobile       | Validar fluxo principal em tela mobile    | O fluxo deve permanecer legível e utilizável                      | Aprovado   |05-evidencias/smoke-test/SMK-010.png|
 
 ---
 
