@@ -154,13 +154,11 @@ qa-manual-ingressos-danca-tradicao/
 │
 ├── 04-checklists/
 │   ├── smoke-test.md
-│   ├── regressao.md
-│   ├── mobile.md
 │   └── admin.md
 │
 ├── 05-evidencias/
-│   ├── desktop/
-│   ├── mobile/
+│   ├── casos-de-teste/
+│   ├── smoke-test/
 │   ├── bugs/
 │   └── README.md
 │
@@ -177,16 +175,16 @@ qa-manual-ingressos-danca-tradicao/
 
 | Documento              | Objetivo                                               | Status       |
 | ---------------------- | ------------------------------------------------------ | ------------ |
-| Plano de Teste         | Definir escopo, ambiente, riscos e estratégia de teste | Em andamento |
-| Casos de Teste         | Documentar os cenários e passos de validação           | A iniciar    |
-| Bug Reports            | Registrar falhas encontradas durante os testes         | A iniciar    |
-| Smoke Test             | Validar rapidamente se o sistema está funcional        | A iniciar    |
-| Checklist de Regressão | Garantir que funcionalidades antigas não quebrem       | A iniciar    |
-| Checklist Mobile       | Validar comportamento em telas menores                 | A iniciar    |
-| Checklist Admin        | Validar fluxos administrativos                         | A iniciar    |
-| Evidências             | Armazenar prints e registros dos testes                | A iniciar    |
-| Relatório Final        | Consolidar resultados do ciclo de QA                   | A iniciar    |
-| Post LinkedIn          | Apresentar o case de QA Manual publicamente            | A iniciar    |
+| Plano de Teste         | Definir escopo, ambiente, riscos e estratégia de teste | Feito        |
+| Casos de Teste         | Documentar os cenários e passos de validação           | Feito        |
+| Bug Reports            | Registrar falhas encontradas durante os testes         | Feito        |
+| Smoke Test             | Validar rapidamente se o sistema está funcional        | Feito        |
+| Checklist de Regressão | Garantir que funcionalidades antigas não quebrem       | Feito        |
+| Checklist Mobile       | Validar comportamento em telas menores                 | Feito        |
+| Checklist Admin        | Validar fluxos administrativos                         | Feito        |
+| Evidências             | Armazenar prints e registros dos testes                | Feito        |
+| Relatório Final        | Consolidar resultados do ciclo de QA                   | Feito        |
+| Post LinkedIn          | Apresentar o case de QA Manual publicamente            | Feito        |
 
 ---
 
@@ -270,15 +268,3 @@ A proposta é demonstrar minha capacidade de:
 * organizar evidências;
 * comunicar resultados de forma profissional.
 
----
-
-## Próximos passos
-
-* Finalizar o plano de teste
-* Criar smoke test
-* Criar casos de teste funcionais
-* Executar testes no sistema
-* Registrar evidências
-* Documentar bugs encontrados
-* Criar relatório final
-* Publicar post no LinkedIn apresentando o case

@@ -96,7 +96,7 @@ A landing page deve carregar corretamente, sem erro crítico, exibindo as inform
 
 ### Status
 
-Aprovado. A landing page é carregada no endereço Vercel de Homologação (https://ingressosdancaetradicao.vercel.app/), a as informações referentes ao evento apresentadas estão corretas.
+Aprovado. A landing page é carregada no endereço Vercel de Homologação (https://ingressosdancaetradicao.vercel.app/), as informações referentes ao evento apresentadas estão corretas.
 
 ### Evidência
 
@@ -285,7 +285,7 @@ O sistema deve criar a reserva com sucesso e direcionar o usuário para a etapa 
 
 ### Status
 
-Aprovado. Preenchendo corretamento os dados o sistema encaminha o usuário a tela de pagamento e cria a reserva no sistema.
+Aprovado. Preenchendo corretamente os dados o sistema encaminha o usuário a tela de pagamento e cria a reserva no sistema.
 
 ### Evidência
 
@@ -353,7 +353,7 @@ Aprovado com ressalva. O painel reservas na seção admin mostra as reservas em 
 ### Evidência
 
 `05-evidencias/casos-de-teste/CT-007.png`
-`05-evidencias/casos-de-teste/BUG-001.png`
+`05-evidencias/bugs/BUG-001.png`
 
 ---
 
@@ -412,12 +412,12 @@ O ticket deve ser exibido corretamente, contendo informações básicas do compr
 
 ### Status
 
-Reprovado. O ticket e gerado em forma de PDF que o usuário receberá. Nele constam todas as informações do evento incluindo o QR Code para liberação. Porém existe um bug visual de linhas de textos sobrepondo com elementos visuais do ticket podendo interferir na experiência do usuário
+Reprovado. O ticket é gerado em forma de PDF que o usuário receberá. Nele constam todas as informações do evento incluindo o QR Code para liberação. Porém existe um bug visual de linhas de textos sobrepondo com elementos visuais do ticket podendo interferir na experiência do usuário
 
 ### Evidência
 
 `05-evidencias/casos-de-teste/CT-010.png`
-`05-evidencias/casos-de-teste/BUG-002.png`
+`05-evidencias/bugs/BUG-002.png`
 
 ---
 
@@ -474,7 +474,7 @@ O sistema deve bloquear a segunda validação e informar que o ticket já foi ut
 
 ### Status
 
-Aprovado. Quando é tentado validar novamente um ticket ja validade é informado pelo sistema que o mesmo ja foi utilizado.
+Aprovado. Quando é tentado validar novamente um ticket já validado é informado pelo sistema que o mesmo ja foi utilizado.
 
 ### Evidência
 
@@ -528,6 +528,5 @@ Aprovado. O fluxo segue corretamente através das telas conforme versão desktop
 
 ## 8. Observações gerais
 
-Aprovado. Todos os testes propostos foram aplicados e validados sem grandes dificuldades.
+Aprovado com ressalvas. O fluxo principal foi validado com sucesso, porém foram encontrados dois bugs visuais documentados: um no campo de busca do painel administrativo e outro no layout do ticket/PDF gerado.
 
----
